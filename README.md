@@ -56,6 +56,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://www.linkedin.com/in/kashif-ghafoor-347b5918b/)
+- GitHub [@your-username](https://github.com/kashif-ghafoor)
+- Twitter [@your-twitter](https://twitter.com/_kashifghafoor)
